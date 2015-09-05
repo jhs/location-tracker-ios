@@ -10,7 +10,7 @@ Also, excluding Cordova, this is my first native iOS app project and my first Sw
 
 ## Plan
 
-1. Ship a Swift "Hello World"
+1. Ship a [Swift "Hello World"](https://github.com/jhs/ios-experiments)
   * Code in this Git project
   * Documentation for how to build it yourself
 1. Get [Cloudant Sync] compiled in but inert
